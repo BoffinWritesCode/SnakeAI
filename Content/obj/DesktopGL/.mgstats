@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Josh/Documents/Visual Studio 2019/Projects/SnakeAI/Content/circle.png","C:/Users/Josh/Documents/Visual Studio 2019/Projects/SnakeAI/Content/bin/DesktopGL/circle.xnb","TextureProcessor","Texture2DContent",1486,40085,0.2078601
+"C:/Users/Josh/Documents/Visual Studio 2019/Projects/SnakeAI/Content/font.spritefont","C:/Users/Josh/Documents/Visual Studio 2019/Projects/SnakeAI/Content/bin/DesktopGL/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.285267
